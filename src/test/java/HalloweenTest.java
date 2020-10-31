@@ -8,5 +8,7 @@ public class HalloweenTest {
         //line 2
         //line 3
 
+        // add a comment , message from magic branch
+
     }
 }
